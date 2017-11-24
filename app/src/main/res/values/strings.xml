@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_item">Enter Location</string>
+    <string name="txt_item_added">City added</string>
+    <string name="txt_add_cancel">City adding cancelled</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="txt_item_edited">Item edited!</string>
+    <string name="txt_about">This app was made for checking the weather! Made by Mickey Mouse</string>
+    <string name="txt_help">Use the touch controls to work with the application.</string>
+    <string name="website">http://openweathermap.org/img/w/</string>
+    <string name="png">.png</string>
+    <string name="values">metric</string>
+    <string name="api">http://api.openweathermap.org/data/2.5/</string>
+    <string name="bad">Bad city name</string>
+    <string name="error">Error! Try again</string>
+    <string name="action_hide">Hide</string>
+    <string name="total">Total: $</string>
+</resources>
