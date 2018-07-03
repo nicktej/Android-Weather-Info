@@ -20,3 +20,7 @@ Peter Ekler, AIT Budapest
 
 ### Images
 
+![1](https://user-images.githubusercontent.com/25356323/42201135-598124a2-7e4b-11e8-810f-9e710719e001.png)
+![2](https://user-images.githubusercontent.com/25356323/42201136-599a2f2e-7e4b-11e8-9e10-b030fc07c6d7.png)
+![3](https://user-images.githubusercontent.com/25356323/42201137-59b5543e-7e4b-11e8-9eb0-a4a71ee2aded.png)
+![4](https://user-images.githubusercontent.com/25356323/42201138-59cb248a-7e4b-11e8-9b57-5b562eff19ae.png)
